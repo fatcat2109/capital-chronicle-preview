@@ -1,0 +1,315 @@
+[
+  {
+    "route": {
+      "page": "home"
+    },
+    "path": "index.html"
+  },
+  {
+    "route": {
+      "page": "news"
+    },
+    "path": "news.html"
+  },
+  {
+    "route": {
+      "page": "reports"
+    },
+    "path": "reports.html"
+  },
+  {
+    "route": {
+      "page": "charts"
+    },
+    "path": "charts.html"
+  },
+  {
+    "route": {
+      "page": "calendar"
+    },
+    "path": "calendar.html"
+  },
+  {
+    "route": {
+      "page": "workspace"
+    },
+    "path": "workspace.html"
+  },
+  {
+    "route": {
+      "page": "data"
+    },
+    "path": "data.html"
+  },
+  {
+    "route": {
+      "page": "scorecard"
+    },
+    "path": "scorecard.html"
+  },
+  {
+    "route": {
+      "page": "archive"
+    },
+    "path": "archive.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "EURUSD"
+    },
+    "path": "assets/EURUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "USDJPY"
+    },
+    "path": "assets/USDJPY.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "GBPUSD"
+    },
+    "path": "assets/GBPUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "USDCHF"
+    },
+    "path": "assets/USDCHF.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "USDCAD"
+    },
+    "path": "assets/USDCAD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "AUDUSD"
+    },
+    "path": "assets/AUDUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "NZDUSD"
+    },
+    "path": "assets/NZDUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "DXY"
+    },
+    "path": "assets/DXY.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "XAUUSD"
+    },
+    "path": "assets/XAUUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "XAGUSD"
+    },
+    "path": "assets/XAGUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "USOIL"
+    },
+    "path": "assets/USOIL.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "UKOIL"
+    },
+    "path": "assets/UKOIL.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "XNGUSD"
+    },
+    "path": "assets/XNGUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "XCUUSD"
+    },
+    "path": "assets/XCUUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "US500"
+    },
+    "path": "assets/US500.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "USTEC"
+    },
+    "path": "assets/USTEC.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "US30"
+    },
+    "path": "assets/US30.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "NVDA"
+    },
+    "path": "assets/NVDA.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "META"
+    },
+    "path": "assets/META.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "SPCX"
+    },
+    "path": "assets/SPCX.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "AAPL"
+    },
+    "path": "assets/AAPL.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "MSFT"
+    },
+    "path": "assets/MSFT.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "GOOGL"
+    },
+    "path": "assets/GOOGL.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "AMZN"
+    },
+    "path": "assets/AMZN.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "AVGO"
+    },
+    "path": "assets/AVGO.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "TSLA"
+    },
+    "path": "assets/TSLA.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "LLY"
+    },
+    "path": "assets/LLY.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "WMT"
+    },
+    "path": "assets/WMT.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "JPM"
+    },
+    "path": "assets/JPM.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "XOM"
+    },
+    "path": "assets/XOM.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "LIN"
+    },
+    "path": "assets/LIN.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "LMT"
+    },
+    "path": "assets/LMT.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "EQIX"
+    },
+    "path": "assets/EQIX.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "BTCUSD"
+    },
+    "path": "assets/BTCUSD.html"
+  },
+  {
+    "route": {
+      "page": "asset",
+      "symbol": "ETHUSD"
+    },
+    "path": "assets/ETHUSD.html"
+  },
+  {
+    "route": {
+      "page": "event",
+      "eventId": "US_ECI_20261030"
+    },
+    "path": "events/US_ECI_20261030.html"
+  },
+  {
+    "route": {
+      "page": "event",
+      "eventId": "US_NFP_20261106"
+    },
+    "path": "events/US_NFP_20261106.html"
+  }
+]

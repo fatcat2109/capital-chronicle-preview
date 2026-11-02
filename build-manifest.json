@@ -1,0 +1,390 @@
+{
+  "schema": "CapitalChronicleLocalPublicBuildV1",
+  "export_id": "fixture-desk-record-export-v1-20261030",
+  "fixture": true,
+  "projection_sha256": "af633447b41f9402cf13838ceca393c0e174774c8a459eae83ffa825a0702316",
+  "scope": "LOCAL_PREVIEW_ONLY",
+  "data_binding": "EXTERNAL_PUBLIC_PROJECTION_V1",
+  "export_freshness": {
+    "state": "FIXTURE_PREVIEW",
+    "generated_at_utc": "2026-10-30T15:22:05Z"
+  },
+  "application_source_sha256": "4fd0260c04ca8f819563ba5edeb53924cc85cfa0ad9ef813114642cc4d9bc07f",
+  "application_files": {
+    "assets/public-desk-CNjA8sP4.js": "54169b735962dd4b200f1ae3ecfb3fc1b2128db6798be50c1d0704657984dfd5",
+    "assets/public-desk-CtWGBXrI.css": "7eae49143939500be4668a1f1b976793b3e889c468acc073567008eeb3cbf2b0",
+    "public-page-template.html": "d0cad5d26c297b139a7add42042332f1c9216af047bb80e973165eafb3cbeee9"
+  },
+  "files": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "archive.html": "149e70763b522a6e72a6fb3a8ce6d902914796c42fa3df7eeb4e4b05f928077c",
+    "assets/AAPL.html": "b885fa199705c4b4b755fea2a52c86c402e03377c22731bcd90103bb33cf5bd6",
+    "assets/AMZN.html": "e7025c674b5c2007d8dc0c42a3cd6a167a431b9373f073ab1c4f21435a2a7d3d",
+    "assets/AUDUSD.html": "6715e33a7116fcfafbd6e65846ae9a06665b03453757cd39e7f6e32e34b02d87",
+    "assets/AVGO.html": "853fb742aabdd9c54c6728cf7073681f278c7b30e76190af72d2f371b6e81e48",
+    "assets/BTCUSD.html": "c6bc97a0b93fcc25123eea8e13c35bdc5a19ae2f0e18b9dc5a48b8c0e5748030",
+    "assets/DXY.html": "2134f93ca3e4b82c8c4176d9d5dc775dcee531a3146fb0b8187f8ceab5e317d3",
+    "assets/EQIX.html": "cd69ed5b09b30fb34835284c520782f837470bc84f0b1da124f80daf6f4d7415",
+    "assets/ETHUSD.html": "45fee33ed0186dd135ee1333d056627e2348d2498938da5791d7303fb8fa07f5",
+    "assets/EURUSD.html": "87da4aa070cd1fdab77ca0e3454093925384c3f4260e3938688ffe9fe40b71c5",
+    "assets/GBPUSD.html": "3e52df373c704dd8fbbe12785f38a06ba39062c2f8c324049e43f188446cdfce",
+    "assets/GOOGL.html": "0170a02222e0091a98fea10dbc7bce50dc1dda30dee5957f7e2a67382fbb2db9",
+    "assets/JPM.html": "17e47b59655017aebd91fc673f8f0ed7249bba2d1f52b959a8528655272fc44e",
+    "assets/LIN.html": "d9ee1ff22f7fd53ab23c6a8be1cc298e9ab2844bebbbeb919162dede30c43a34",
+    "assets/LLY.html": "10e1df404ddaa162de44e9db3bd35a6085131b5aed57ca206b6006fe3e496827",
+    "assets/LMT.html": "86768cba1e1231c7db0aa4e2cc9c3cd2ce56911c759687fc4c62d88d778bca98",
+    "assets/META.html": "d28792db78589e3645fbb097f41a6341291aafbbfd1b926e4ad960f91b30aa4b",
+    "assets/MSFT.html": "09d866b422c3bc0f8fd0764d6da11094b012be183574cf3a5e0288d719749d62",
+    "assets/NVDA.html": "8daf981173fb9c6fb1f983544991a54799f421b2e85bacd5ad4d27f4107e0108",
+    "assets/NZDUSD.html": "07ff6796fb72abf110c38b523677b7abb91f13a5c91f2f1d4075710f4db322e3",
+    "assets/public-desk-CNjA8sP4.js": "54169b735962dd4b200f1ae3ecfb3fc1b2128db6798be50c1d0704657984dfd5",
+    "assets/public-desk-CtWGBXrI.css": "7eae49143939500be4668a1f1b976793b3e889c468acc073567008eeb3cbf2b0",
+    "assets/SPCX.html": "1d77da2b1ab36770a29ad5ff3b7b5b9f99e1a489024838980dfd1cefe20c80ec",
+    "assets/TSLA.html": "4cda680b48f2541890dc00139b5630392e14a3ef7ec284660ea503f401e1ad09",
+    "assets/UKOIL.html": "f93fbc3b8d3605cdcfea504cfbaba3aa484b19fee12717ab9d477479a5ddee15",
+    "assets/US30.html": "3824dd8023faf2692c2cf9d9f13a84594c0876403dc9e2482cee89aabce01730",
+    "assets/US500.html": "90c91043d744abca9b9c5b3c426c9778a0352eb7564f30575e3ee40f6b5ddc97",
+    "assets/USDCAD.html": "63b6a22737b935b510ff838df85aacec36b3d4df663373d74fb50bafbb70a584",
+    "assets/USDCHF.html": "b3d4ac34032f75d47b8417f38127072f03bb82ba5d9124a4e57c6cfbe5ae1144",
+    "assets/USDJPY.html": "f94cb800ceb9781d95b947765e1b5b416c227903cefcd86bf3ab0a5e0f5eaecf",
+    "assets/USOIL.html": "36b3d38d6e18dd2f74aeb97c92a89f9563de1a3c73b749589dd1b262be085c6f",
+    "assets/USTEC.html": "ac08eac4646dbb256af855a86c5e564152cf95cc8b9723b6675e46ed734819b9",
+    "assets/WMT.html": "2e7e86f38e65b872c3c8efa6bc3d72a394892e26cb31e3f6e10ef97dda540b2f",
+    "assets/XAGUSD.html": "73b21a59497b53399102f455c2e3c2f5ba5c236c62a6c6d0302c67bcbe534249",
+    "assets/XAUUSD.html": "a7f4ee0b9e0b420b6c15707cdff5262368a81e7603f5dad2d1c883efda978b7b",
+    "assets/XCUUSD.html": "4775f1143c20d724318ad091030cd8cb9872c677a8107d66662e85065fe40fc1",
+    "assets/XNGUSD.html": "23a4ab1f246eadf463bd2c3f002e6aaa4f5d7b3365956bc1657103a1905fb024",
+    "assets/XOM.html": "ec31038309477b07358f221a3bfc9b9c726ed38774f6f20553c2bcd42736c792",
+    "calendar.html": "fac5a4a21a592db80a02cd3b72aefbf62e06313c4e84ad303191fe4afc063701",
+    "chart-data.json": "f7db7951ad4bb292b9d30266ea9bafb60534a71dcbe9d1bb015750d1f5e90101",
+    "charts.html": "d948b1920ff1c63a62d0dfdb828fd7ea39b50df0bf9d648867e5a9b6b8e60b75",
+    "data.html": "87054ad5995d136171d18d1e7584ff7e373a8780a35eb9014da5482182a05bbd",
+    "desk-record.public.json": "d0572da79a3eb10c1a35b1549e1c1ee977ae73a7445e0a8324fab25f84f862a9",
+    "events/US_ECI_20261030.html": "56601045f4931d75b306e727ccc5808fc3eee3c697ab89d12af2dce5c2936bac",
+    "events/US_NFP_20261106.html": "ad7935c8aee33c22d5ace444ea872d1fd68e7a6d71719cf8eb4167b01be0d745",
+    "index.html": "98ebfb4b98617be397cde218dd51f9d03fa4f1e62e91e6df232c6d7b62272a52",
+    "news.html": "8d657e30a48ac4f4c1880244ad49b5b44fe0b3c5dd57c0ed5f424903b0032deb",
+    "pages.json": "d4a463a069b70a1253d36c79eb15c4b6d2d10d77f764b96460021482419c4ffb",
+    "public-page-template.html": "d0cad5d26c297b139a7add42042332f1c9216af047bb80e973165eafb3cbeee9",
+    "reports.html": "29ebab051b5ca77de910c360c1c7a4fcf85ae8c72f58fad8adbd0ed7b3b9f9a0",
+    "scorecard.html": "9e86459bfcd8a7807e5aab8a0b59c98db9fb8c72a1b49f847ab457175448e64f",
+    "workspace.html": "4c1a95cc32ddee970425fc779b86c4413b3444b1c6a4396121b22f038c0ffef3"
+  },
+  "pages": [
+    {
+      "route": {
+        "page": "home"
+      },
+      "path": "index.html"
+    },
+    {
+      "route": {
+        "page": "news"
+      },
+      "path": "news.html"
+    },
+    {
+      "route": {
+        "page": "reports"
+      },
+      "path": "reports.html"
+    },
+    {
+      "route": {
+        "page": "charts"
+      },
+      "path": "charts.html"
+    },
+    {
+      "route": {
+        "page": "calendar"
+      },
+      "path": "calendar.html"
+    },
+    {
+      "route": {
+        "page": "workspace"
+      },
+      "path": "workspace.html"
+    },
+    {
+      "route": {
+        "page": "data"
+      },
+      "path": "data.html"
+    },
+    {
+      "route": {
+        "page": "scorecard"
+      },
+      "path": "scorecard.html"
+    },
+    {
+      "route": {
+        "page": "archive"
+      },
+      "path": "archive.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "EURUSD"
+      },
+      "path": "assets/EURUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USDJPY"
+      },
+      "path": "assets/USDJPY.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "GBPUSD"
+      },
+      "path": "assets/GBPUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USDCHF"
+      },
+      "path": "assets/USDCHF.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USDCAD"
+      },
+      "path": "assets/USDCAD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AUDUSD"
+      },
+      "path": "assets/AUDUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "NZDUSD"
+      },
+      "path": "assets/NZDUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "DXY"
+      },
+      "path": "assets/DXY.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XAUUSD"
+      },
+      "path": "assets/XAUUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XAGUSD"
+      },
+      "path": "assets/XAGUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USOIL"
+      },
+      "path": "assets/USOIL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "UKOIL"
+      },
+      "path": "assets/UKOIL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XNGUSD"
+      },
+      "path": "assets/XNGUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XCUUSD"
+      },
+      "path": "assets/XCUUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "US500"
+      },
+      "path": "assets/US500.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USTEC"
+      },
+      "path": "assets/USTEC.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "US30"
+      },
+      "path": "assets/US30.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "NVDA"
+      },
+      "path": "assets/NVDA.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "META"
+      },
+      "path": "assets/META.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "SPCX"
+      },
+      "path": "assets/SPCX.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AAPL"
+      },
+      "path": "assets/AAPL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "MSFT"
+      },
+      "path": "assets/MSFT.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "GOOGL"
+      },
+      "path": "assets/GOOGL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AMZN"
+      },
+      "path": "assets/AMZN.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AVGO"
+      },
+      "path": "assets/AVGO.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "TSLA"
+      },
+      "path": "assets/TSLA.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "LLY"
+      },
+      "path": "assets/LLY.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "WMT"
+      },
+      "path": "assets/WMT.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "JPM"
+      },
+      "path": "assets/JPM.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XOM"
+      },
+      "path": "assets/XOM.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "LIN"
+      },
+      "path": "assets/LIN.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "LMT"
+      },
+      "path": "assets/LMT.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "EQIX"
+      },
+      "path": "assets/EQIX.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "BTCUSD"
+      },
+      "path": "assets/BTCUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "ETHUSD"
+      },
+      "path": "assets/ETHUSD.html"
+    },
+    {
+      "route": {
+        "page": "event",
+        "eventId": "US_ECI_20261030"
+      },
+      "path": "events/US_ECI_20261030.html"
+    },
+    {
+      "route": {
+        "page": "event",
+        "eventId": "US_NFP_20261106"
+      },
+      "path": "events/US_NFP_20261106.html"
+    }
+  ],
+  "charts": 2,
+  "local_links_checked": 1001
+}
