@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Capital Chronicle · Events</title>
+    <link>https://capitalchronicle.invalid/events.html</link>
+    <description>Local preview of dated event pages. Analysis, not financial advice. Fixture, not current data.</description>
+    <language>en</language>
+    <atom:link href="https://capitalchronicle.invalid/events.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employment Cost Index · 2026-Q3 | Capital Chronicle</title>
+      <link>https://capitalchronicle.invalid/events/US_ECI_20261030.html</link>
+      <guid isPermaLink="true">https://capitalchronicle.invalid/events/US_ECI_20261030.html</guid>
+      <description>Civilian compensation rose 0.8% in the third quarter after 0.9% in the second, and 3.4% over the year. Wages and salaries rose 0.7%, benefits 0.9%. Analysis, not financial advice. Fixture, not current data.</description>
+    </item>
+    <item>
+      <title>Employment Situation · 2026-10 | Capital Chronicle</title>
+      <link>https://capitalchronicle.invalid/events/US_NFP_20261106.html</link>
+      <guid isPermaLink="true">https://capitalchronicle.invalid/events/US_NFP_20261106.html</guid>
+      <description>Employment Situation · 2026-10: reviewed event articles are unavailable. Analysis, not financial advice. Fixture, not current data.</description>
+    </item>
+    <item>
+      <title>Synthetic qualitative test copy. | Capital Chronicle</title>
+      <link>https://capitalchronicle.invalid/events/synthetic-event.html</link>
+      <guid isPermaLink="true">https://capitalchronicle.invalid/events/synthetic-event.html</guid>
+      <description>Preview: Synthetic qualitative test copy. Review: Synthetic qualitative test copy. Analysis, not financial advice. Fixture, not current data.</description>
+    </item>
+  </channel>
+</rss>

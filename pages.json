@@ -13,9 +13,27 @@
   },
   {
     "route": {
+      "page": "articles"
+    },
+    "path": "articles.html"
+  },
+  {
+    "route": {
       "page": "reports"
     },
     "path": "reports.html"
+  },
+  {
+    "route": {
+      "page": "events"
+    },
+    "path": "events.html"
+  },
+  {
+    "route": {
+      "page": "market-reactions"
+    },
+    "path": "market-reactions.html"
   },
   {
     "route": {
@@ -311,5 +329,12 @@
       "eventId": "US_NFP_20261106"
     },
     "path": "events/US_NFP_20261106.html"
+  },
+  {
+    "route": {
+      "page": "event",
+      "eventId": "synthetic-event"
+    },
+    "path": "events/synthetic-event.html"
   }
 ]
