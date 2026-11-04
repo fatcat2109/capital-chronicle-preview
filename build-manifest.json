@@ -1,1 +1,468 @@
-{"application_files":{"assets/public-desk-D5u4jh_X.js":"d7aa957684482f023cf8ae2c18837584f9445ce3e00bb727368cf780520f84a7","assets/public-desk-DQjhH6Is.css":"27dcb247ab5ec9dddca850ab898720c09e48d7279b0515ca79d374ba2da1eea3"},"application_source_sha256":"df849f9f477b0109db0458dced2973b83ad1a84082bb71a9b7c1ccc8d741d175","calendar":{"projection_sha256":"66c252bada4d4476f827e7d2b176e74739bd3d391fd49aef1cd8d6e0e8fd7686","reason":null,"state":"READY"},"charts":2,"data_binding":"EXTERNAL_PUBLIC_PROJECTION_V1","discovery":{"event_items":3,"indexing":"NOINDEX_NOFOLLOW_LOCAL_PREVIEW","pages":53,"site_url":"https://capitalchronicle.invalid/"},"event_articles_sha256":"1ba5222177bfa4f678ae6656996ac7ef21baf92a5b21afc3134dbbc5edb3bd81","export_freshness":{"generated_at_utc":"2026-10-30T15:22:05Z","state":"FIXTURE_PREVIEW"},"export_id":"fixture-desk-record-export-v1-20261030","files":{".gitattributes":"705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",".nojekyll":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","archive.html":"75a8f913c5eb4231d27b783360114fde97d19fd5ff45808051551febd58a32ae","article-media/4110ee29075a70c5ef1fde96342c2a3405c4c4b9394f76b4357b409b431e3789.png":"4110ee29075a70c5ef1fde96342c2a3405c4c4b9394f76b4357b409b431e3789","article-media/5b4223d7feee9476decf997e3a788f640ba68a223cd5318999ef52124433d851.png":"5b4223d7feee9476decf997e3a788f640ba68a223cd5318999ef52124433d851","article-media/a9c3ddd24441eec393f3d819e3df001c3d19ce3a6bdbd6372cffad83f1fbbcc0.jpg":"a9c3ddd24441eec393f3d819e3df001c3d19ce3a6bdbd6372cffad83f1fbbcc0","article-media/d6d1d02e8a6c4ca550604976ee07e1e3aa78844188984de71159253403dd124b.jpg":"d6d1d02e8a6c4ca550604976ee07e1e3aa78844188984de71159253403dd124b","articles.html":"e6b0fd924685e0c6ff1b9878b2ccfbc431022e58b4e1732040499a3f22dbd688","articles/firstsquawk-citing-the-wall-street.html":"bbc128a76ba490ad6ce8fa2cc27dc17fb302cb85bcc1dfeb135355fb0a313c4e","articles/september-cpi-why-06-and-37-answer.html":"7cf9ba59b2574ca5fa6acd2cb6afa1abf3a1ef5b65b2594cf67967078233b138","articles/the-fed-held-on-october-28-both-dissenters.html":"65ffc55c83689e0bc630069bd4db1f0f7c4ea7e27af016edd7d08424ba5f7716","assets/AAPL.html":"4469cf7237240b87b9e39f289bcc4081a59a73f25fd4a30ff0cfb45103d8560b","assets/AMZN.html":"b30ad8888dc84c4ebaf3c8fe93294665d52357c3fd87fc1d2b01347dfb1dd66f","assets/AUDUSD.html":"6de1dfba92bbcd5380386c2b38e772b9b65a2b4a819344084083c6487808b9b3","assets/AVGO.html":"b07f521f077e611d4d9e6cacca15760e82d3193af98c4adc045186f8a551597b","assets/BTCUSD.html":"664dc2fa970a15747210797d659a1fa427124f18b5a004d7b863f8008e779fc8","assets/DXY.html":"556e2ef1030cdd7cf9c5bc60c8be1fb6e8feb22b8c9538b9dbcc49b6890f963a","assets/EQIX.html":"a257fe7a88da953f8c2a884639284bcff39133255bcc1f762dbf34e430851adc","assets/ETHUSD.html":"4826220fc40b1ca91c4cefb66f586dee54dd42242bbf720a3f2a7de623e204ed","assets/EURUSD.html":"e2fd2798fa4a9851b5d39a510e0b1a29311059da2e7597cc18d5bd19d22c6fd3","assets/GBPUSD.html":"8f8bb2e5fcc52e70bcb7a4d23c7d73aafc985afeefff55c18ff3ccbef22ad1ab","assets/GOOGL.html":"2e6c5c9b98b1fd5d297057e2d8d2dd3184ebb6b2deeead9d26e3c96f68b4233d","assets/JPM.html":"dd2fea7efca445047c9ec07e97d13d90c64223a084cf1a0b708181fcabda6c02","assets/LIN.html":"e89f499a40fcb401ecd16d2f2835e4ed0a370f11d647cf60f967d07bf448c04d","assets/LLY.html":"e1a966bd5924ee02d1962bc18c710c0c43caa105a6b7373b3bfc50bcd3c63141","assets/LMT.html":"1d1caee9fc93fcefc8b40b7ba53ded2a101f9a669232b8f583ec19d511d63fc8","assets/META.html":"37d1a68a43143c3be775efedf9db440a0899543167f724b27d04fa6bc1a9cde7","assets/MSFT.html":"fbea8535f048d5618352b1f56eb6b9ad2fbe6c433822e07f325e362efe203ee7","assets/NVDA.html":"62e83f8b1b6013bae3a577282d77a99f55323cc7a7e167d5ba7c5bed0a2d2ac1","assets/NZDUSD.html":"6597f0b94959c78aad9e42750790d59aa7e403023bc509d8c5891e78e71b240d","assets/SPCX.html":"e36c6f35b956386b5a934a95d347e5dc1f94d9b2c965b76606889a6dd7287fab","assets/TSLA.html":"48c34e76463da13ddcac4da9f534880eff735fb0cd9f7318629aa1bfa3c6a0a5","assets/UKOIL.html":"189cc9c5fb9a800055c1b3ece641f402ef1798f8ea4cf828524581d76ebf643d","assets/US30.html":"7276ee0ed3daa384c46364541893a40fd1c7b66ceaa02a163ec69e7943297e9f","assets/US500.html":"12b43967973dfecf5bb1c4a4ff90b7d2a7dfb6a9203f093efd5a33e37dab2fa0","assets/USDCAD.html":"5ab3c2ce1734968d1254a204762575dcfa081b33bc3d369a7564ef4bbfe3d60f","assets/USDCHF.html":"3ecce685470adef8c3f84ced872997b6ca02ed195f38fc81bc0d59de68f99abf","assets/USDJPY.html":"72fd213aa0f69949ed961cb18b973b561a2077b487180b27cd9e1f27d96cf434","assets/USOIL.html":"076ea4849432d00347aafdfc039ee97b9e0ebcd1da47a955a10d957aaddaa0e7","assets/USTEC.html":"cc2c4c9e51519980c0e8949b64abe2a05e2ae9ab6c50e3db269b9c274c229bad","assets/WMT.html":"fdf839bf698413af70b3870409ce8c713ad0b8fd0294e8b733709d55df477de3","assets/XAGUSD.html":"b1035264584f231d4e13800c65115c56763d229c74d3ecd53fdfc910012f0cfa","assets/XAUUSD.html":"387598d88d413a711d34e7bab63829854da15fced0f9d5638e7c634851b4f41b","assets/XCUUSD.html":"83ac739c0d86529b3d09db63c8dd72a116751496fc4e09d20d4c8c4d7d9d22d3","assets/XNGUSD.html":"87351bca4d0da73fa1b06871972bd7e2014ea2c3f7d0ade4c833c85278549a39","assets/XOM.html":"781c0c87e795cfb917b1bf171fab8f440730ecbd4bafcac67e5946d3031021b1","assets/public-desk-D5u4jh_X.js":"d7aa957684482f023cf8ae2c18837584f9445ce3e00bb727368cf780520f84a7","assets/public-desk-DQjhH6Is.css":"27dcb247ab5ec9dddca850ab898720c09e48d7279b0515ca79d374ba2da1eea3","calendar.html":"0247c033ab622e5193cf8a54e8a02131ae138340a2b112133af19e42203fcb57","chart-data.json":"f7db7951ad4bb292b9d30266ea9bafb60534a71dcbe9d1bb015750d1f5e90101","charts.html":"e7dcd6b6c780228126a10f124d77d2349ad29011b92bbeb17fea979e433cd16d","data.html":"cfe437334b290651385e02dd4ce42f11a6fa6c36411acf0d870ff384fff93922","desk-record.public.json":"d0572da79a3eb10c1a35b1549e1c1ee977ae73a7445e0a8324fab25f84f862a9","event-articles.public.json":"f1e038d605320f5009876d2bdab6b1f7ebb7c3cd733e9c54e98cf606fbd50a70","events.html":"c946cf52329525e9f021d99871f83e3da30037dca907af53f66e5d06f6ef754e","events.rss":"1053a2a49fb99d402f9c62ee28502799bdf23ae82670dddd3c41a55e9f3091aa","events/US_ECI_20261030.html":"6d916183423deafeed5a3531ee82f93ef50852ac0bdb807c3501482858ecc4a3","events/US_NFP_20261106.html":"86e198081ecf742567b43b6c673f99416056410b8015756dda6edd739b3b4ebc","events/synthetic-event.html":"20bdf33716dadc8aff211c22e9fd1389fa10218f56c4f2066552a1b71bf99d1c","index.html":"f1477f5c3b28b20f27e7e9ab08d4adaa81583355e95e37f6d90b8b8850372d2e","market-reactions.html":"801b990fc0663943f8637a9cefcdf9202d3be0aa522b4d67db37228e70d1a5bc","market-reactions.public.json":"d761430d14532ce4e24614b48866098d0cd06cdffe3d7aa589978cdda6f1d064","news.html":"0bb21ed2eec640a0935bbaafd1dd7289d3036401f73a378a9aea415c7cf7ff98","official-calendar.public.json":"aced2b693fb1fc485c6e2e455c79372b2230d2f860f207976fb5f74a0ea0fbf6","pages.json":"3148fda28c6b3b2013da200ed65398aca06a0c6759f9c12a62e0f862a34db354","published-articles.public.json":"32f49b097312b0f9204b343d0b22676896bd2217071a8e55c96330a408bb4b2e","reports.html":"59e42d1809ca7d0f602e2aea960ba8efee3c3d42673a2c16882e3d0311604134","robots.txt":"3c2a15e4d7992b01ea0e402faff9003505ff0afcb98b4c210c353fac99620936","scorecard.html":"3273ed44f2d40ddc7988880869d155a2e6cf8866001c734ead1b415a3a3fe498","sitemap.xml":"21fa273a44131f8553c22ee790e81bd159a66f507261be1f4cb78c44dae6381e","workspace.html":"3b166012a9b645c656e301387d267da1a85c38f4282c2256c4eb35493cd12b6f"},"fixture":true,"local_links_checked":1380,"market_reactions_sha256":"059a969eff644ea424e2a4f34e6de33d0322ccf43a1881f431a9560c425e2759","pages":[{"path":"index.html","route":{"page":"home"}},{"path":"news.html","route":{"page":"news"}},{"path":"articles.html","route":{"page":"articles"}},{"path":"reports.html","route":{"page":"reports"}},{"path":"events.html","route":{"page":"events"}},{"path":"market-reactions.html","route":{"page":"market-reactions"}},{"path":"charts.html","route":{"page":"charts"}},{"path":"calendar.html","route":{"page":"calendar"}},{"path":"workspace.html","route":{"page":"workspace"}},{"path":"data.html","route":{"page":"data"}},{"path":"scorecard.html","route":{"page":"scorecard"}},{"path":"archive.html","route":{"page":"archive"}},{"path":"assets/EURUSD.html","route":{"page":"asset","symbol":"EURUSD"}},{"path":"assets/USDJPY.html","route":{"page":"asset","symbol":"USDJPY"}},{"path":"assets/GBPUSD.html","route":{"page":"asset","symbol":"GBPUSD"}},{"path":"assets/USDCHF.html","route":{"page":"asset","symbol":"USDCHF"}},{"path":"assets/USDCAD.html","route":{"page":"asset","symbol":"USDCAD"}},{"path":"assets/AUDUSD.html","route":{"page":"asset","symbol":"AUDUSD"}},{"path":"assets/NZDUSD.html","route":{"page":"asset","symbol":"NZDUSD"}},{"path":"assets/DXY.html","route":{"page":"asset","symbol":"DXY"}},{"path":"assets/XAUUSD.html","route":{"page":"asset","symbol":"XAUUSD"}},{"path":"assets/XAGUSD.html","route":{"page":"asset","symbol":"XAGUSD"}},{"path":"assets/USOIL.html","route":{"page":"asset","symbol":"USOIL"}},{"path":"assets/UKOIL.html","route":{"page":"asset","symbol":"UKOIL"}},{"path":"assets/XNGUSD.html","route":{"page":"asset","symbol":"XNGUSD"}},{"path":"assets/XCUUSD.html","route":{"page":"asset","symbol":"XCUUSD"}},{"path":"assets/US500.html","route":{"page":"asset","symbol":"US500"}},{"path":"assets/USTEC.html","route":{"page":"asset","symbol":"USTEC"}},{"path":"assets/US30.html","route":{"page":"asset","symbol":"US30"}},{"path":"assets/NVDA.html","route":{"page":"asset","symbol":"NVDA"}},{"path":"assets/META.html","route":{"page":"asset","symbol":"META"}},{"path":"assets/SPCX.html","route":{"page":"asset","symbol":"SPCX"}},{"path":"assets/AAPL.html","route":{"page":"asset","symbol":"AAPL"}},{"path":"assets/MSFT.html","route":{"page":"asset","symbol":"MSFT"}},{"path":"assets/GOOGL.html","route":{"page":"asset","symbol":"GOOGL"}},{"path":"assets/AMZN.html","route":{"page":"asset","symbol":"AMZN"}},{"path":"assets/AVGO.html","route":{"page":"asset","symbol":"AVGO"}},{"path":"assets/TSLA.html","route":{"page":"asset","symbol":"TSLA"}},{"path":"assets/LLY.html","route":{"page":"asset","symbol":"LLY"}},{"path":"assets/WMT.html","route":{"page":"asset","symbol":"WMT"}},{"path":"assets/JPM.html","route":{"page":"asset","symbol":"JPM"}},{"path":"assets/XOM.html","route":{"page":"asset","symbol":"XOM"}},{"path":"assets/LIN.html","route":{"page":"asset","symbol":"LIN"}},{"path":"assets/LMT.html","route":{"page":"asset","symbol":"LMT"}},{"path":"assets/EQIX.html","route":{"page":"asset","symbol":"EQIX"}},{"path":"assets/BTCUSD.html","route":{"page":"asset","symbol":"BTCUSD"}},{"path":"assets/ETHUSD.html","route":{"page":"asset","symbol":"ETHUSD"}},{"path":"events/US_ECI_20261030.html","route":{"eventId":"US_ECI_20261030","page":"event"}},{"path":"events/US_NFP_20261106.html","route":{"eventId":"US_NFP_20261106","page":"event"}},{"path":"events/synthetic-event.html","route":{"eventId":"synthetic-event","page":"event"}},{"path":"articles/september-cpi-why-06-and-37-answer.html","route":{"articleSlug":"september-cpi-why-06-and-37-answer","page":"article"}},{"path":"articles/the-fed-held-on-october-28-both-dissenters.html","route":{"articleSlug":"the-fed-held-on-october-28-both-dissenters","page":"article"}},{"path":"articles/firstsquawk-citing-the-wall-street.html","route":{"articleSlug":"firstsquawk-citing-the-wall-street","page":"article"}}],"projection_sha256":"af633447b41f9402cf13838ceca393c0e174774c8a459eae83ffa825a0702316","published_articles_sha256":"3bf973dde3061d71d145d916b7f47d13ddc6a27c9d554a1579119a5eda5d4d97","schema":"CapitalChronicleLocalPublicBuildV1","scope":"LOCAL_PREVIEW_ONLY"}
+{
+  "schema": "CapitalChronicleLocalPublicBuildV1",
+  "export_id": "fixture-desk-record-export-v1-20261030",
+  "fixture": true,
+  "projection_sha256": "af633447b41f9402cf13838ceca393c0e174774c8a459eae83ffa825a0702316",
+  "event_articles_sha256": "1ba5222177bfa4f678ae6656996ac7ef21baf92a5b21afc3134dbbc5edb3bd81",
+  "published_articles_sha256": "a292413701ce446c0fb52df59ca25809d9e28204688a3d7c720ae1c83b325b47",
+  "market_reactions_sha256": "059a969eff644ea424e2a4f34e6de33d0322ccf43a1881f431a9560c425e2759",
+  "scope": "LOCAL_PREVIEW_ONLY",
+  "data_binding": "EXTERNAL_PUBLIC_PROJECTION_V1",
+  "export_freshness": {
+    "state": "FIXTURE_PREVIEW",
+    "generated_at_utc": "2026-10-30T15:22:05Z"
+  },
+  "discovery": {
+    "site_url": "https://capitalchronicle.invalid/",
+    "pages": 53,
+    "event_items": 3,
+    "indexing": "NOINDEX_NOFOLLOW_LOCAL_PREVIEW"
+  },
+  "calendar": {
+    "state": "UNAVAILABLE",
+    "reason": "CALENDAR_STALE",
+    "projection_sha256": "3ce5354dd38c3e25c51ec1937c880cd13a8863a312714127d40f74edba39b701"
+  },
+  "application_source_sha256": "da73feb1d7ad6a544672ecf6e371a79de3af0e04285c551e3da704bb628e9dcf",
+  "application_files": {
+    "assets/public-desk-Cgn85LdG.css": "c98bdc79b13ab5883a8ab30b949d374daf386870d0370232326720e35686ea86",
+    "assets/public-desk-XbyKX9lx.js": "130b0c4c11704be2158d73ff6e6f42db08f7544ccb36fff852bbb69373db264b",
+    "public-page-template.html": "1d47c21f4926bbb8305a217b9b877902044d4ffd04c66260fe5eea31cac812fd"
+  },
+  "files": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "archive.html": "faf0326b23fd46e7a919967a071d75f0bc7033b3aede08dc95961ac538ca35ec",
+    "article-media/4110ee29075a70c5ef1fde96342c2a3405c4c4b9394f76b4357b409b431e3789.png": "4110ee29075a70c5ef1fde96342c2a3405c4c4b9394f76b4357b409b431e3789",
+    "article-media/5b4223d7feee9476decf997e3a788f640ba68a223cd5318999ef52124433d851.png": "5b4223d7feee9476decf997e3a788f640ba68a223cd5318999ef52124433d851",
+    "article-media/a9c3ddd24441eec393f3d819e3df001c3d19ce3a6bdbd6372cffad83f1fbbcc0.jpg": "a9c3ddd24441eec393f3d819e3df001c3d19ce3a6bdbd6372cffad83f1fbbcc0",
+    "article-media/d6d1d02e8a6c4ca550604976ee07e1e3aa78844188984de71159253403dd124b.jpg": "d6d1d02e8a6c4ca550604976ee07e1e3aa78844188984de71159253403dd124b",
+    "articles/firstsquawk-citing-the-wall-street.html": "5358b703d4069c70d243041fa50cff0621d7b5583f50258019bfcce8e77aed74",
+    "articles/september-cpi-why-06-and-37-answer.html": "8f2539154cf1a3b63a30db066bd079692e6b31c4078e1806c243403832af9d57",
+    "articles/the-fed-held-on-october-28-both-dissenters.html": "3842fbe7fb22328be358f7d46be7dce0e78b7d80b004962e63749b02a795468e",
+    "articles.html": "b6c57a4ad1132dadd93dce4db55ccff9f3989f2d90106650ebe33355833834b7",
+    "assets/AAPL.html": "b7601bf9c67bc2cefd1389e1bc66a4fc042a8096a609491d39040865c9542978",
+    "assets/AMZN.html": "e4f5ca0279a4bd3361c5978029bd6dc4a414b352ebe5bb3c6a3137a7bbe40e47",
+    "assets/AUDUSD.html": "cff4601b1dbe616ae5527b648cfb031acfe85493c927ff3e051e3c4c2e90e98d",
+    "assets/AVGO.html": "2394be888a2e5b9547065a3ccc07f0cec899f8152afd7d1dfb560f538483f3f0",
+    "assets/BTCUSD.html": "91d4815d3d3064d68e603935faf18bfc89d5b5c9f30314efb0c426d3e3166405",
+    "assets/DXY.html": "e2cfed47fe01ae5e04b3ee3a8aa09782510032060c10f4044199b898d048ea70",
+    "assets/EQIX.html": "f247e20f9d2073cf7b5056a135a7ac9c7a7d5a23e0af47489a1aee1137c42f8a",
+    "assets/ETHUSD.html": "06d6930345122052271ac0285ee277393bfff19e025822b32fb6eff37123936d",
+    "assets/EURUSD.html": "10e8257f158d0d4799e9e17144ddf0d81753325fce83d11b4c2aaff44914bea4",
+    "assets/GBPUSD.html": "7a5239b029a68d70cbf91bd4ba8639ea5a0fcc3d9a24167bc5401401e92f455c",
+    "assets/GOOGL.html": "a214acdd9181e8222277af545577902d83868439c581af663923c2eafd3dae9f",
+    "assets/JPM.html": "445d7a8e4eb416f3fe8f9a05a916611c1999316cf9a5571424440c8ebbdd79e7",
+    "assets/LIN.html": "ca406126c3cbccc3beb63562bef56bc69f2d1232287c505d84342f4f3ffefdd6",
+    "assets/LLY.html": "428256489a64242cb927f3dc06519421b9bc6c66468fc30e225ccab4b364e810",
+    "assets/LMT.html": "3be0b436a174ca85fe05cc63b905a1a410636cc8ac787d06477f179952e018b0",
+    "assets/META.html": "23177008d088a558c483a974d0cc4a68c6984bdaf2483524f5c7efa0dbd4980a",
+    "assets/MSFT.html": "2477d1a2a2190030a9b7097b4bd455bd8e7699008e1ab3b3bba41e551fbc25cb",
+    "assets/NVDA.html": "8cdbc1690e1f9b8919a3de7c9d26f96d57ff03c3451c9712ce0fb474e5654ecb",
+    "assets/NZDUSD.html": "56c252b94cee766708b6fcb65d332d96d5d06e036d40c4d34d20c17b3e5fd7fd",
+    "assets/public-desk-Cgn85LdG.css": "c98bdc79b13ab5883a8ab30b949d374daf386870d0370232326720e35686ea86",
+    "assets/public-desk-XbyKX9lx.js": "130b0c4c11704be2158d73ff6e6f42db08f7544ccb36fff852bbb69373db264b",
+    "assets/SPCX.html": "18c3cb8c51c9b41f274478d991a5755e2030716367fa1d909adff14510e76887",
+    "assets/TSLA.html": "13d3ee2bf49d3bc823a17e7139c5dd82f91c08fd2c2ed2fd1283b3954d502623",
+    "assets/UKOIL.html": "710daefdaa7f905e31f36c183bab146d357a714608a5c14c8e9ac857482af9f4",
+    "assets/US30.html": "146d259cc137cbd8bc547e85c7bd47ed57a4010b8518e4bb1ee2a550e9ce05c4",
+    "assets/US500.html": "22b18857d32ab920428c6f33580d782e94470d4fb2a9e712f8754f94e5acca40",
+    "assets/USDCAD.html": "f28f10d628f14f290b294fead4608bc97eb00fe2d2d2019c3297c5b4c88097b3",
+    "assets/USDCHF.html": "a522b983ed240d8315c86ab36481d5f108766d3a2c5b697cacbb176829b50483",
+    "assets/USDJPY.html": "97d0886ec8f729402195aed3652d5fb76aa6843131df4422e8fe0673b8715001",
+    "assets/USOIL.html": "e1d9302d2b4f867d509f8ab42d4e6cd6a697ffd9f1b0ec9242825e8d1065a520",
+    "assets/USTEC.html": "333b337c7d850074e9228240fc7d64dd0e1ae9b2063307543e704adf054a3e16",
+    "assets/WMT.html": "8614d56d89d7e88e2c1c1bf50a34e7ef4c620e480e7a13cb5656f0775bd22d7e",
+    "assets/XAGUSD.html": "5c01327812ecde8afeb1b397fc4fb80cf3619ba91980f89a797b4fc683cbc393",
+    "assets/XAUUSD.html": "f35fe5dbef57605c295f1cd12e02dbe05bad28e774f36c05bc8fe191a2c436d4",
+    "assets/XCUUSD.html": "c80bc4a78ca9ebf00c4dfe494f61e17f096c9ea71e5a15d04d8e9aa80e1419e4",
+    "assets/XNGUSD.html": "a6ea3e50f4db07342f6b502b5abec05014006328288c9fe045aec604fd4ca961",
+    "assets/XOM.html": "14651d260901f3e96f1656730954afcc8fee9b8af80b244e90cebf01651ce42b",
+    "calendar.html": "b51738e9a1c66cea1eac386a513041d03140de125820dd30fb66f88cf7e66fe5",
+    "chart-data.json": "f7db7951ad4bb292b9d30266ea9bafb60534a71dcbe9d1bb015750d1f5e90101",
+    "charts.html": "8f677b239cbff0fad0a015715b73d6021acbf2bcc11ab476c3c1886e8234b094",
+    "data.html": "758177201f81c2e3712d8ae088b6822babdab6be0340bfe453edc76779216b12",
+    "desk-record.public.json": "d0572da79a3eb10c1a35b1549e1c1ee977ae73a7445e0a8324fab25f84f862a9",
+    "event-articles.public.json": "f1e038d605320f5009876d2bdab6b1f7ebb7c3cd733e9c54e98cf606fbd50a70",
+    "events/synthetic-event.html": "078c865d8d7274995bf3a957f047a4a7097576be0bf0c5df1b7bb4c4a766c3b7",
+    "events/US_ECI_20261030.html": "937b646cb06a2a4c62f16d1bd233d85ed07f954c8ae28cae5c7fd57c09d963ab",
+    "events/US_NFP_20261106.html": "d4ad54ad74eab6d501577c37e90fce929c2a521bbfcb8f711d8e0a514bbcb706",
+    "events.html": "be028fb4e587564e3fdda3b3f719e93e3983d328f9c7f789b96b46a885b01f04",
+    "events.rss": "1053a2a49fb99d402f9c62ee28502799bdf23ae82670dddd3c41a55e9f3091aa",
+    "index.html": "76624baa66151275cc6d94d050bb2f71fd1ebbe66f40a4af238902f9bc80b2ec",
+    "market-reactions.html": "3a5e2c7f9fd21894b8b5b7b18d2feb5394ce15b8e16c3dd6e741824f2e587752",
+    "market-reactions.public.json": "d761430d14532ce4e24614b48866098d0cd06cdffe3d7aa589978cdda6f1d064",
+    "news.html": "ecb6d5d250e52a02b695032cb3ae57bd976cff47a44df3ca1267a5c0b53ff497",
+    "official-calendar.public.json": "8b9d283eabecc63d36ae37ad2cfcc2ffba4810c40c46c7658ed4b6f0a8e8a89c",
+    "pages.json": "3148fda28c6b3b2013da200ed65398aca06a0c6759f9c12a62e0f862a34db354",
+    "public-page-template.html": "1d47c21f4926bbb8305a217b9b877902044d4ffd04c66260fe5eea31cac812fd",
+    "published-articles.public.json": "89bcb9c6ce1d5bef81e3f70e3dfee818d0575cfaec0eb18be5649fd062676091",
+    "reports.html": "5bb53e91f7f31d3d58f5d62b878aca390841655f3994a11ab327a2495913a9be",
+    "robots.txt": "3c2a15e4d7992b01ea0e402faff9003505ff0afcb98b4c210c353fac99620936",
+    "scorecard.html": "2db082ed349fca85f7dff04fa0a169f0b7adf8bec5fa2b765222a96aa433789b",
+    "sitemap.xml": "21fa273a44131f8553c22ee790e81bd159a66f507261be1f4cb78c44dae6381e",
+    "workspace.html": "c9d220524c489a94cef822db2efda4a97dd7217ac118ebcf773a96ff4df561ae"
+  },
+  "pages": [
+    {
+      "route": {
+        "page": "home"
+      },
+      "path": "index.html"
+    },
+    {
+      "route": {
+        "page": "news"
+      },
+      "path": "news.html"
+    },
+    {
+      "route": {
+        "page": "articles"
+      },
+      "path": "articles.html"
+    },
+    {
+      "route": {
+        "page": "reports"
+      },
+      "path": "reports.html"
+    },
+    {
+      "route": {
+        "page": "events"
+      },
+      "path": "events.html"
+    },
+    {
+      "route": {
+        "page": "market-reactions"
+      },
+      "path": "market-reactions.html"
+    },
+    {
+      "route": {
+        "page": "charts"
+      },
+      "path": "charts.html"
+    },
+    {
+      "route": {
+        "page": "calendar"
+      },
+      "path": "calendar.html"
+    },
+    {
+      "route": {
+        "page": "workspace"
+      },
+      "path": "workspace.html"
+    },
+    {
+      "route": {
+        "page": "data"
+      },
+      "path": "data.html"
+    },
+    {
+      "route": {
+        "page": "scorecard"
+      },
+      "path": "scorecard.html"
+    },
+    {
+      "route": {
+        "page": "archive"
+      },
+      "path": "archive.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "EURUSD"
+      },
+      "path": "assets/EURUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USDJPY"
+      },
+      "path": "assets/USDJPY.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "GBPUSD"
+      },
+      "path": "assets/GBPUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USDCHF"
+      },
+      "path": "assets/USDCHF.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USDCAD"
+      },
+      "path": "assets/USDCAD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AUDUSD"
+      },
+      "path": "assets/AUDUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "NZDUSD"
+      },
+      "path": "assets/NZDUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "DXY"
+      },
+      "path": "assets/DXY.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XAUUSD"
+      },
+      "path": "assets/XAUUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XAGUSD"
+      },
+      "path": "assets/XAGUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USOIL"
+      },
+      "path": "assets/USOIL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "UKOIL"
+      },
+      "path": "assets/UKOIL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XNGUSD"
+      },
+      "path": "assets/XNGUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XCUUSD"
+      },
+      "path": "assets/XCUUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "US500"
+      },
+      "path": "assets/US500.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "USTEC"
+      },
+      "path": "assets/USTEC.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "US30"
+      },
+      "path": "assets/US30.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "NVDA"
+      },
+      "path": "assets/NVDA.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "META"
+      },
+      "path": "assets/META.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "SPCX"
+      },
+      "path": "assets/SPCX.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AAPL"
+      },
+      "path": "assets/AAPL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "MSFT"
+      },
+      "path": "assets/MSFT.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "GOOGL"
+      },
+      "path": "assets/GOOGL.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AMZN"
+      },
+      "path": "assets/AMZN.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "AVGO"
+      },
+      "path": "assets/AVGO.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "TSLA"
+      },
+      "path": "assets/TSLA.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "LLY"
+      },
+      "path": "assets/LLY.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "WMT"
+      },
+      "path": "assets/WMT.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "JPM"
+      },
+      "path": "assets/JPM.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "XOM"
+      },
+      "path": "assets/XOM.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "LIN"
+      },
+      "path": "assets/LIN.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "LMT"
+      },
+      "path": "assets/LMT.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "EQIX"
+      },
+      "path": "assets/EQIX.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "BTCUSD"
+      },
+      "path": "assets/BTCUSD.html"
+    },
+    {
+      "route": {
+        "page": "asset",
+        "symbol": "ETHUSD"
+      },
+      "path": "assets/ETHUSD.html"
+    },
+    {
+      "route": {
+        "page": "event",
+        "eventId": "US_ECI_20261030"
+      },
+      "path": "events/US_ECI_20261030.html"
+    },
+    {
+      "route": {
+        "page": "event",
+        "eventId": "US_NFP_20261106"
+      },
+      "path": "events/US_NFP_20261106.html"
+    },
+    {
+      "route": {
+        "page": "event",
+        "eventId": "synthetic-event"
+      },
+      "path": "events/synthetic-event.html"
+    },
+    {
+      "route": {
+        "page": "article",
+        "articleSlug": "september-cpi-why-06-and-37-answer"
+      },
+      "path": "articles/september-cpi-why-06-and-37-answer.html"
+    },
+    {
+      "route": {
+        "page": "article",
+        "articleSlug": "the-fed-held-on-october-28-both-dissenters"
+      },
+      "path": "articles/the-fed-held-on-october-28-both-dissenters.html"
+    },
+    {
+      "route": {
+        "page": "article",
+        "articleSlug": "firstsquawk-citing-the-wall-street"
+      },
+      "path": "articles/firstsquawk-citing-the-wall-street.html"
+    }
+  ],
+  "charts": 2,
+  "local_links_checked": 1379
+}
