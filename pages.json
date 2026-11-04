@@ -340,6 +340,20 @@
   {
     "route": {
       "page": "article",
+      "articleSlug": "september-2026-jobs-private-gains"
+    },
+    "path": "articles/september-2026-jobs-private-gains.html"
+  },
+  {
+    "route": {
+      "page": "article",
+      "articleSlug": "us-securities-and-exchange-commission"
+    },
+    "path": "articles/us-securities-and-exchange-commission.html"
+  },
+  {
+    "route": {
+      "page": "article",
       "articleSlug": "september-cpi-why-06-and-37-answer"
     },
     "path": "articles/september-cpi-why-06-and-37-answer.html"
