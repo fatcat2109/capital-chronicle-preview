@@ -340,9 +340,44 @@
   {
     "route": {
       "page": "article",
+      "articleSlug": "southwests-2025-fuel-hedge-exit-did"
+    },
+    "path": "articles/southwests-2025-fuel-hedge-exit-did.html"
+  },
+  {
+    "route": {
+      "page": "article",
+      "articleSlug": "september-ppi-energy-drove-the-goods"
+    },
+    "path": "articles/september-ppi-energy-drove-the-goods.html"
+  },
+  {
+    "route": {
+      "page": "article",
       "articleSlug": "september-2026-jobs-private-gains"
     },
     "path": "articles/september-2026-jobs-private-gains.html"
+  },
+  {
+    "route": {
+      "page": "article",
+      "articleSlug": "us-securities-and-exchange-commission"
+    },
+    "path": "articles/us-securities-and-exchange-commission.html"
+  },
+  {
+    "route": {
+      "page": "article",
+      "articleSlug": "september-cpi-why-06-and-37-answer"
+    },
+    "path": "articles/september-cpi-why-06-and-37-answer.html"
+  },
+  {
+    "route": {
+      "page": "article",
+      "articleSlug": "the-fed-held-on-october-28-both-dissenters"
+    },
+    "path": "articles/the-fed-held-on-october-28-both-dissenters.html"
   },
   {
     "route": {
