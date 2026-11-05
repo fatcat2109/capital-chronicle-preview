@@ -347,27 +347,6 @@
   {
     "route": {
       "page": "article",
-      "articleSlug": "us-securities-and-exchange-commission"
-    },
-    "path": "articles/us-securities-and-exchange-commission.html"
-  },
-  {
-    "route": {
-      "page": "article",
-      "articleSlug": "september-cpi-why-06-and-37-answer"
-    },
-    "path": "articles/september-cpi-why-06-and-37-answer.html"
-  },
-  {
-    "route": {
-      "page": "article",
-      "articleSlug": "the-fed-held-on-october-28-both-dissenters"
-    },
-    "path": "articles/the-fed-held-on-october-28-both-dissenters.html"
-  },
-  {
-    "route": {
-      "page": "article",
       "articleSlug": "firstsquawk-citing-the-wall-street"
     },
     "path": "articles/firstsquawk-citing-the-wall-street.html"
