@@ -340,6 +340,13 @@
   {
     "route": {
       "page": "article",
+      "articleSlug": "single-source-report-reuters-reuters"
+    },
+    "path": "articles/single-source-report-reuters-reuters.html"
+  },
+  {
+    "route": {
+      "page": "article",
       "articleSlug": "southwests-2025-fuel-hedge-exit-did"
     },
     "path": "articles/southwests-2025-fuel-hedge-exit-did.html"
@@ -364,6 +371,13 @@
       "articleSlug": "us-securities-and-exchange-commission"
     },
     "path": "articles/us-securities-and-exchange-commission.html"
+  },
+  {
+    "route": {
+      "page": "article",
+      "articleSlug": "us-midterms-capital-chronicle-on"
+    },
+    "path": "articles/us-midterms-capital-chronicle-on.html"
   },
   {
     "route": {
